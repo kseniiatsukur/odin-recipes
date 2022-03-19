@@ -1,0 +1,13 @@
+h1, h2 {color: rgb(56, 4, 4);
+    background-color: white;
+    font-size: 36px;
+    font-family: Tahoma, Helvetica, sans-serif;}
+    
+h2 {
+    font-size: 24px;
+    }
+
+ol {font-size: 18px;
+    background-color: rgb(56, 4, 4);
+    color: white;}
+
